@@ -34,6 +34,7 @@ sudo apt install python3-pip python3-dev
 
 sudo pip3 install OPi.GPIO
 
+
 How to compile C code?
 
 Using Geany software (included in Armbian) is recommended, add -lwiringPi in Set Build Commands.
