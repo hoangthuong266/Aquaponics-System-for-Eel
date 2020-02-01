@@ -38,7 +38,7 @@ Software and Library Requirement:
 
     Using Geany software (included in Armbian) is recommended, add -lwiringPi in Set Build Commands.
 
-Install LAMP:
+Install LAMP on Debian 10:
 
     sudo apt install apache2
     
@@ -48,4 +48,8 @@ Install LAMP:
     
     Copy file info.php in codePHP folder to /var/www/html then access http://YOUR_PI_IP/info.php to make sure installation succeeded.
     
-    sudo apt install mysql-server
+    sudo apt install mariadb-server
+    
+    sudo apt install mariadb-client
+    
+    Then follow this instruction to install phpmyadmin on Debian 10: https://www.linuxbabe.com/debian/install-phpmyadmin-apache-lamp-debian-10-buster
