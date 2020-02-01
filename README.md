@@ -40,16 +40,10 @@ Software and Library Requirement:
 
 Install LAMP on Debian 10:
 
-    sudo apt install apache2
-    
-    sudo apt install php
-    
-    sudo apt install php-mysql
-    
+    sudo apt install apache2 php php-mysql mariadb-server mariadb-client
+   
     Copy file info.php in codePHP folder to /var/www/html then access http://YOUR_PI_IP/info.php to make sure installation succeeded.
     
-    sudo apt install mariadb-server
-    
-    sudo apt install mariadb-client
-    
     Then follow this instruction to install phpmyadmin on Debian 10: https://www.linuxbabe.com/debian/install-phpmyadmin-apache-lamp-debian-10-buster
+    
+Install Node-RED: https://nodered.org/docs/getting-started/raspberrypi
