@@ -10,9 +10,9 @@ Software and Library Requirement:
     
     cd Downloads
     
-    tar xvf arduino-1.8.10-linuxaarch64.tar.xz //or file name for newer version.
+    tar xvf arduino-1.8.11-linuxaarch64.tar.xz //or file name for newer version.
 
-    cd arduino-1.8.10
+    cd arduino-1.8.11
 
     sudo chmod +x install.sh
 
