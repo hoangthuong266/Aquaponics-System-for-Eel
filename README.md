@@ -39,8 +39,13 @@ Software and Library Requirement:
     Using Geany software (included in Armbian) is recommended, add -lwiringPi in Set Build Commands.
 
 Install LAMP:
+
     sudo apt install apache2
+    
     sudo apt install php
+    
     sudo apt install php-mysql
+    
     Copy file info.php in codePHP folder to /var/www/html then access http://YOUR_PI_IP/info.php to make sure installation succeeded.
+    
     sudo apt install mysql-server
