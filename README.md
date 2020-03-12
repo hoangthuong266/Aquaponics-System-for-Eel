@@ -36,7 +36,7 @@ Software and Library Requirement:
 
 4. How to compile C code?
 
-    Using Geany software (included in Armbian) is recommended, add -lwiringPi in Set Build Commands.
+    Using Geany software (already included in Armbian) is recommended, add -lwiringPi in Set Build Commands.
 
 Install LAMP on Debian 10:
 
