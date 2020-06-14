@@ -47,3 +47,4 @@ Install LAMP on Debian 10:
     Then follow this instruction to install phpmyadmin on Debian 10: https://www.linuxbabe.com/debian/install-phpmyadmin-apache-lamp-debian-10-buster
     
 Install Node-RED: https://nodered.org/docs/getting-started/raspberrypi
+
